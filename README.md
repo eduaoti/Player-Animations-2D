@@ -59,7 +59,7 @@ El estudiante practicará los fundamentos de videojuegos en 2D con Unity.
 
 | # | Actividad | Documento | Video |
 |---|-----------|-----------|-------|
-| 01 | Actividad viernes 1 | 👉 Aquí pones el link | <video src="videos/actividad1.mp4" controls width="400"></video> |
+| 01 | Actividad viernes 1 | 👉 https://docs.google.com/document/d/1kjPLcsWJvbJJpXlkKDu7JWDHK8l0_iYWbP9krdXmFT0/edit?usp=sharing | https://github.com/user-attachments/assets/db0dc631-fec3-40af-ab70-0517f65dccfd |
 | 02 | Actividad viernes 2 | 👉 Aquí pones el link | <video src="videos/actividad2.mp4" controls width="400"></video> |
 | 03 | Actividad viernes 3 | 👉 Aquí pones el link | <video src="videos/actividad3.mp4" controls width="400"></video> |
 | 04 | Actividad viernes 4 | 👉 Aquí pones el link | <video src="videos/actividad4.mp4" controls width="400"></video> |
