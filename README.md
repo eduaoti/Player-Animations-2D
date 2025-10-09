@@ -55,11 +55,23 @@ El estudiante practicará los fundamentos de videojuegos en 2D con Unity.
 
 ---
 
-## 📌 Notas
-- Asegúrate de que los enlaces de Drive tengan permisos de “cualquiera con el enlace puede ver”.  
-- Puedes agregar capturas de pantalla o GIFs debajo de cada link para evidenciar tu trabajo.  
-- Mantén consistencia en el estilo de tus documentos y código.  
+## 📅 Actividades de los viernes
+
+| # | Actividad | Documento | Video |
+|---|-----------|-----------|-------|
+| 01 | Actividad viernes 1 | 👉 Aquí pones el link | <video src="videos/actividad1.mp4" controls width="400"></video> |
+| 02 | Actividad viernes 2 | 👉 Aquí pones el link | <video src="videos/actividad2.mp4" controls width="400"></video> |
+| 03 | Actividad viernes 3 | 👉 Aquí pones el link | <video src="videos/actividad3.mp4" controls width="400"></video> |
+| 04 | Actividad viernes 4 | 👉 Aquí pones el link | <video src="videos/actividad4.mp4" controls width="400"></video> |
+| 05 | Actividad viernes 5 | 👉 Aquí pones el link | <video src="videos/actividad5.mp4" controls width="400"></video> |
+| 06 | Actividad viernes 6 | 👉 Aquí pones el link | <video src="videos/actividad6.mp4" controls width="400"></video> |
+| 07 | Actividad viernes 7 | 👉 Aquí pones el link | <video src="videos/actividad7.mp4" controls width="400"></video> |
+| 08 | Actividad viernes 8 | 👉 Aquí pones el link | <video src="videos/actividad8.mp4" controls width="400"></video> |
+| 09 | Actividad viernes 9 | 👉 Aquí pones el link | <video src="videos/actividad9.mp4" controls width="400"></video> |
+| 10 | Actividad viernes 10 | 👉 Aquí pones el link | <video src="videos/actividad10.mp4" controls width="400"></video> |
+
+> 💡 *Coloca los archivos de video dentro de la carpeta `videos/` en tu repositorio.*
 
 ---
 
-💡 *Archivo elaborado por **Eduardo González Ortiz** para documentar el progreso de los tutoriales 2D en Unity dentro del **Proyecto Integrador Global**.*
+💡 *Archivo elaborado por **Eduardo González Ortiz** para documentar el progreso de los tutoriales 2D en Unity y las actividades de los viernes dentro del **Proyecto Integrador Global**.*
