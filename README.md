@@ -33,8 +33,8 @@ El estudiante practicará los fundamentos de videojuegos en 2D con Unity.
 
 | # | Video | Link a evidencia |
 |---|-------|----------------|
-| 01 | Creación del mundo | 👉 Aquí pones el link |
-| 02 | Movimiento y Salto | 👉 Aquí pones el link |
+| 01 | Creación del mundo | 👉 Entrgado en Clase |
+| 02 | Movimiento y Salto | 👉 Entrgado en Clase  |
 | 03 | Recoger Frutas | 👉 Aquí pones el link |
 | 04 | Animaciones de personaje | 👉 Aquí pones el link |
 | 05 | Enemigos | 👉 Aquí pones el link |
