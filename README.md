@@ -7,8 +7,8 @@
 
 | Nº | Nombre del Tutorial | Documento | Recursos | Video |
 |----|----------------------|-----------|-----------|--------|
-| 01 | **Tutorial 01 – Player Animations 2D Tutorial 01.pdfPlayer Animations 2D Tutorial 01** | 👉 https://docs.google.com/document/d/1kjPLcsWJvbJJpXlkKDu7JWDHK8l0_iYWbP9krdXmFT0/edit?usp=sharing | Compeltado | 🔗 **Video:** (https://github.com/user-attachments/assets/db0dc631-fec3-40af-ab70-0517f65dccfd)|
-| 02 | **Tutorial 02** | _Pendiente_ | _Pendiente_ | 🔗 **Video:** _Pendiente_ |
+| 01 | **Tutorial 01 – Player Animations 2D Tutorial 01.pdfPlayer Animations 2D Tutorial 01** | https://docs.google.com/document/d/1kjPLcsWJvbJJpXlkKDu7JWDHK8l0_iYWbP9krdXmFT0/edit?usp=sharing | Compeltado | 🔗 **Video:** (https://github.com/user-attachments/assets/db0dc631-fec3-40af-ab70-0517f65dccfd)|
+| 02 | **Tutorial 02** | (https://docs.google.com/document/d/1X8jqxmkNdFsm0oW67RskUAPUfUBd4WWc3cooNNnvy0E/edit?usp=sharing) | _Pendiente_ | 🔗 **Video:** _Pendiente_ |
 | 03 | **Tutorial 03** | _Pendiente_ | _Pendiente_ | 🔗 **Video:** _Pendiente_ |
 | 04 | **Tutorial 04** | _Pendiente_ | _Pendiente_ | 🔗 **Video:** _Pendiente_ |
 | 05 | **Tutorial 05** | _Pendiente_ | _Pendiente_ | 🔗 **Video:** _Pendiente_ |
