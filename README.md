@@ -6,7 +6,7 @@
 |----|----------------------|-----------|-----------|--------|
 | 01 | **Tutorial 01 – Player Animations 2D** | https://docs.google.com/document/d/1kjPLcsWJvbJJpXlkKDu7JWDHK8l0_iYWbP9krdXmFT0/edit?usp=sharing | Completado | 🔗 **Video:** https://github.com/user-attachments/assets/db0dc631-fec3-40af-ab70-0517f65dccfd |
 | 02 | **Player Animations 2D Tutorial 02** | https://docs.google.com/document/d/1X8jqxmkNdFsm0oW67RskUAPUfUBd4WWc3cooNNnvy0E/edit?usp=sharing | Completado | 🔗 **Video:** https://github.com/user-attachments/assets/1a732450-8860-4a43-b236-2d426439edfc |
-| 03 | **Player Animations 2D Parte 3** | Completado | _Pendiente_ | 🔗 **Video:** _Pendiente_ |
+| 03 | **Player Animations 2D Parte 3** | https://docs.google.com/document/d/178l-gRZztGRJhHJWExjGStnX_eMzhUaYV455GL_0UMQ/edit?usp=sharing | Completado | 🔗 **Video:** _Pendiente_ |
 | 04 | **Player Animations 2D Parte 4** | Completado | _Pendiente_ | 🔗 **Video:** _Pendiente_ |
 | 05 | **Player Animations 2D Parte 5** | Completado | _Pendiente_ | 🔗 **Video:** _Pendiente_ |
 | 06 | **Player Animations 2D Parte 6** | Completado | _Pendiente_ | 🔗 **Video:** _Pendiente_ |
