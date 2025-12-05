@@ -30,14 +30,14 @@
 # 🎮 Mi Juego: ROBOBASURA
 
 ## 🗑️ Nivel 1
-🎥 Video: _Pendiente_
+🎥 Video: https://drive.google.com/file/d/1PzqdG_eIDGDnMbJe6s9t1z-Zmub57aFY/view?usp=sharing
 
 ---
 
 ## 🔥 Nivel 2
-🎥 Video: _Pendiente_
+🎥 Video: https://drive.google.com/file/d/19wekBM4-Y4DzIj5YaPgH2kg5uykkPmGK/view?usp=sharing
 
 ---
 
 ## 👑 Nivel 3
-🎥 Video: _Pendiente_
+🎥 Video: https://drive.google.com/file/d/1c9oRQkaj9lVXO4_qnC81PnA3gF4hrbkO/view?usp=sharing
